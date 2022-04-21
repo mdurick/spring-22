@@ -1,27 +1,14 @@
 ---
 title: Morgan Durick's Resume
 description: A compilation of Morgan Durick's work experience, skills and accomplishments.
-date: 2018-05-01
+date: 2022-04-21
 tags:
   - another tag
 layout: layouts/post.njk
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Morgan Durick is preparing to graduate in May with a bachelor's degree in journalism and mass communication. She is passionate about storytelling and takes any opportunity that gives her the chance to do so. She is a people person and enjoyes collaborating with teams to reach a common goal. 
 
 ## Resume
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-```text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+[Resume-current-.docx](https://github.com/mdurick/spring-22/files/8535331/Resume-current-.docx)
