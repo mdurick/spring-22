@@ -11,7 +11,8 @@ Below is a compilation of Morgan Durick's most recent work and experiecne as an 
 
 ## Portfolio
 
-#Dotdash Meredith
+# Dotdash Meredith
+
 At EatingWell, Morgan pitches news and evergreen stories pertaining to health, wellness and lifestyle at, writes copy ingredient, works directly with account managers and other industry professionals, build and publishes digital articles through OneCMS and maximizes digital content through implementing elements of SEO strategy and identifying search trends.
 
 https://www.eatingwell.com/author/morgan-durick/
