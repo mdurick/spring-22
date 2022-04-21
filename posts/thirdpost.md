@@ -16,3 +16,8 @@ Below is a compilation of Morgan Durick's most recent work and experiecne as an 
 At EatingWell, Morgan pitches news and evergreen stories pertaining to health, wellness and lifestyle, writes copy, works directly with account managers and other industry professionals, builds and publishes digital articles through OneCMS and maximizes content reach through implementing elements of SEO strategy.
 
 https://www.eatingwell.com/author/morgan-durick/
+
+# The College of Human Sciences
+Working as a writer/web assistant for The College of Human Sciences communications office, Morgan updated college websites with news briefs, announcements and calendar events, assisted in building the weekly newsletter, traced and fixed broken links, executed student interviews, wrote and edited stories and created content for social media posts.
+
+https://hs.iastate.edu/student-spotlights/
